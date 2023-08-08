@@ -11,3 +11,4 @@ histogram wage
 gen x 
 
 br x
+simulo que otra persona hace un cambio
