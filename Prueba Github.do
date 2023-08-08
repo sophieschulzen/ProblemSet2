@@ -5,3 +5,9 @@ use "beauty.dta"
 
 sum wage 
 histogram wage 
+
+*segunda prueba de cambios 
+
+gen x 
+
+br x
